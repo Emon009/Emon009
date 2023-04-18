@@ -1,7 +1,6 @@
-(https://pbs.twimg.com/profile_banners/1209461449644544000/1602926217/600x200)
 ### Hi there 👋, I'm Emon Hossain
 #### Web Developer
-![Web Developer]
+![Web Developer](https://pbs.twimg.com/profile_banners/1209461449644544000/1602926217/600x200)
 
  I'm a professional and creative WordPress web design and developer. I am currently working as a WordPress Website Designer. Working as a freelance web designer for almost 3 years. I comprehend Instructions clearly provided by clients.
 
